@@ -10,6 +10,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "git-commit-msg-linter": "^4.9.2"
+    "@types/node": "^18.15.11",
+    "@typescript-eslint/eslint-plugin": "^5.57.0",
+    "@typescript-eslint/parser": "^5.57.0",
+    "eslint": "^8.37.0",
+    "git-commit-msg-linter": "^4.9.2",
+    "prettier-eslint": "^15.0.1",
+    "typescript": "^5.0.2"
   }
 }

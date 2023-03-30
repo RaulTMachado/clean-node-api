@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "clean-node-api/dist",
+        "module": "CommonJS",
+        "target": "ES2019",
+        "esModuleInterop": true,
+        "allowJs": true
+    }
+}
